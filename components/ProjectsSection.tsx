@@ -13,7 +13,7 @@ const projects = [
       "Smart Trip is an intelligent travel planning and recommendation system developed using Python and AI-based technologies. The project helps users discover destinations, manage travel plans, receive smart recommendations, and analyze travel preferences through an interactive and user-friendly interface.",
     image:
       "https://images.prismic.io/ai-travelfika-blogs/adYXWZ1ZCF7ES8y2_AI-Trip-Planning.jpg?auto=format,compress",
-    tags: ["Python",'Streamlit',"MySQL", "CURD"],
+    tags: ["Python", "Streamlit", "MySQL", "CURD"],
     category: "Python",
     github: "https://github.com/luckywadhwaniya/SmartTripAI",
     stars: 124,
@@ -27,7 +27,7 @@ const projects = [
       "CafeTales is a modern and responsive café management and restaurant website designed to provide an engaging digital experience for customers. The project focuses on elegant UI/UX, online menu display, smooth navigation, responsive design, and interactive web features using modern web development technologies.",
     image:
       "https://cdn.prod.website-files.com/688d3a84114bb08733192a12/68a3887519763149a362ebaa_68645a359287d257c305b67e_optimizing-restaurant-reservations-with-smart-ai-solutions-1751407156682.webp",
-    tags: ["Full Stack", "MySQL", "DBMS", "Javascript",'Tailwind',"HTML/CSS"],
+    tags: ["Full Stack", "MySQL", "DBMS", "Javascript", "Tailwind", "HTML/CSS"],
     category: "Full Stack",
     github: "https://github.com/luckywadhwaniya/CafeTales",
     stars: 67,
